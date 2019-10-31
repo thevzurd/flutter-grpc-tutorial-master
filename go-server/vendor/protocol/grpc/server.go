@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	v1 "go-server/vendor/api/v1"
+	v1 "github.com/thevzurd/flutter-grpc-tutorial-master/go-server/vendor/api/v1"
 )
 
 // RunServer registers gRPC service and run server

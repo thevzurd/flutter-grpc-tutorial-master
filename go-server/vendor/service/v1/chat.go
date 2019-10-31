@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	v1 "go-server/vendor/api/v1"
 	"github.com/golang/protobuf/ptypes/empty"
 	"github.com/golang/protobuf/ptypes/wrappers"
+	v1 "github.com/thevzurd/flutter-grpc-tutorial-master/go-server/vendor/api/v1"
 )
 
 // chatServiceServer is implementation of v1.ChatServiceServer proto interface
