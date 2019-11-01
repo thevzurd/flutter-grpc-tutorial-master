@@ -1,4 +1,4 @@
-module go-server
+module github.com/thevzurd/flutter-grpc-tutorial-master/go-server
 
 go 1.13
 
