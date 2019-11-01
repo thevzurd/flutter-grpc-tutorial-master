@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/thevzurd/flutter-grpc-tutorial-master/vendor/protocol/grpc"
-	"github.com/thevzurd/flutter-grpc-tutorial-master/vendor/service/v1"
+	grpc "github.com/thevzurd/flutter-grpc-tutorial-master/go-server/pkg/protocol/grpc"
+	v1 "github.com/thevzurd/flutter-grpc-tutorial-master/go-server/pkg/service/v1"
 )
 
 func main() {
